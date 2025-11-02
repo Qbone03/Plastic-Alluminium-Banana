@@ -3,3 +3,4 @@ Catch DaddyironsaveChemical Change HouseKompleteLoadBreakaway Gimp
 Catch DaddyironsaveChemical Change HouseKompleteLoadBreakaway Gimp
 Catch DaddyironsaveChemical Change HouseKompleteLoadBreakaway Gimp
 Catch DaddyironsaveChemical Change HouseKompleteLoadBreakaway Gimp
+print(response.choices[0].message.content)
